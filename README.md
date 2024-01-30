@@ -1,3 +1,7 @@
+# 环境
+* pg 15
+* python3.11
+* pip install arrow 'psycopg[binary]'
 # 配置
 
 1. pg配置文件添加下列两行<br>
